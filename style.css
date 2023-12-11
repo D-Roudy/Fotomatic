@@ -161,7 +161,7 @@ header .mobile {
   align-items: flex-start;
   height: 48rem;
   width: 100%;
-  background-image: url('./resources/images/banner-landingpage.jpg');
+  background-image: url('./assests/images/banner-landingpage.jpg');
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
